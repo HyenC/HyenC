@@ -2,7 +2,7 @@
 
 <div align=center>
 
-:computer: 긍정적인 영향력을 끼치는 개발자가 되기 위해 공부 중입니다. :computer:
+:computer: 데이터로 긍정적인 영향력을 끼치는 개발자가 되기 위해 공부 중입니다. :computer:
 </br></br></br></br>
 
   ## Skill
