@@ -5,7 +5,7 @@
 :computer: 긍정적인 영향력을 끼치는 개발자가 되기 위해 공부 중입니다. :computer:
 </br></br></br></br>
 
-  ## Skill:old_key:
+  ## Skill
   
    <!--주언어-->
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -21,7 +21,7 @@
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
   </br></br></br>
 
-  ## Study:pencil2:
+  ## Study
   `2023.05` - `2023.06` 부스트코스 AI 심화 코칭스터디
   </br>
   `2023.01` - `2023.02` 부스트코스 AI 입문 코칭스터디
@@ -29,7 +29,7 @@
   `2022.09` - `2023.01` 멋쟁이사자처럼 AI SCHOOL
   </br></br></br>
   
-  ## Problem Solving:running_woman:
+  ## Problem Solving
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gldia5996)](https://solved.ac/{handle})
 
