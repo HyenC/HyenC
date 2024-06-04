@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&text=Hyen's%20Hub&fontColor=FFFFFF&fontSize=50&fontAlign=80)
 
-<div align=center>
+<div>
 
-:computer: 데이터로 긍정적인 영향력을 끼치는 개발자가 되기 위해 공부 중입니다. :computer:
-</br></br></br></br>
+:computer: wanna be a developer who makes a positive impact with data. :computer:
+</br></br>
 
-  ## Skill
+
+  ##  Skills
   
    <!--주언어-->
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
