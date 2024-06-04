@@ -21,13 +21,6 @@
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
   </br></br></br>
 
-  ## Study
-  `2023.05` - `2023.06` 부스트코스 AI 심화 코칭스터디
-  </br>
-  `2023.01` - `2023.02` 부스트코스 AI 입문 코칭스터디
-  </br>
-  `2022.09` - `2023.01` 멋쟁이사자처럼 AI SCHOOL
-  </br></br></br>
   
   ## Problem Solving
   [![Solved.ac
