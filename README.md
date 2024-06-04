@@ -20,6 +20,9 @@
    <!--그 외-->
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
    <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+   <img src="https://img.shields.io/badge/colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+   <img src="https://img.shields.io/badge/vscode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   </br></br></br>
 
   
